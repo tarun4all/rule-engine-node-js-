@@ -1,0 +1,27 @@
+{
+  "name": "ruleenginenode",
+  "version": "1.0.0",
+  "description": "rule base engine with json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarun4all/rule-engine-node-js-.git"
+  },
+  "keywords": [
+    "rule-engine",
+    "node"
+  ],
+  "author": "Tarun Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarun4all/rule-engine-node-js-/issues"
+  },
+  "homepage": "https://github.com/tarun4all/rule-engine-node-js-#readme",
+  "dependencies": {
+    "fastify": "^3.3.0",
+    "json-rules-engine": "^5.0.3"
+  }
+}
